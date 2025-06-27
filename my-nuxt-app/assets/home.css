@@ -1,4 +1,28 @@
 h1 {
-    color: blue;
+    color: black;
     font-size: 2em;
+    text-align: center;
+}
+
+.dark-mode h1 {
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
+
+body {
+  background-color: #fff;
+  color: rgba(0,0,0,0.8);
+}
+
+.dark-mode body {
+  background-color: #091a28;
+  color: #ebf4f1;
+}
+
+.v-model {
+    position: relative;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
