@@ -20,7 +20,7 @@ body {
   color: #ebf4f1;
 }
 
-.v-model {
+.color-mode {
     position: relative;
     position: absolute;
     top: 0px;

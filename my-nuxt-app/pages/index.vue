@@ -3,7 +3,7 @@
         <h1>Welcome to FreeFlow</h1>
     </div>
 
-    <div>
+    <div class="color-mode">
     <select v-model="$colorMode.preference">
       <option value="system">System</option>
       <option value="light">Light</option>
