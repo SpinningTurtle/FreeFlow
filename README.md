@@ -4,3 +4,7 @@ Code Install Steps:
 1. Navigate to the main folder: > cd .\my-nuxt-app\
 2. Install all required dependencies: > npm install
 3. Create local development server: > npm run dev
+
+
+Notes:
+- System theme is based on browser theme, not OS theme
